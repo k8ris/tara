@@ -9,6 +9,8 @@ import Bio from "./pages/Bio";
 import Exibition22 from "./pages/Exibition22";
 import Exibition20 from "./pages/Exibition20";
 import Exibition19 from "./pages/Exibition19";
+import ExProzor from "./pages/ExProzor";
+import ExVirtuelna from "./pages/ExVirtuelna";
 import Exibition18 from "./pages/Exibition18";
 import Exibition17 from "./pages/Exibition17";
 import NoPage from "./pages/NoPage";
@@ -31,6 +33,8 @@ export default function App() {
           <Route path="/exibition22" element={<Exibition22 images={artPieces}/>} />
           <Route path="/exibition20" element={<Exibition20 images={artPieces}/>} />
           <Route path="/exibition19" element={<Exibition19 images={artPieces}/>} />
+          <Route path="/prozor" element={<ExProzor images={artPieces}/>} />
+          <Route path="/virtuelna" element={<ExVirtuelna images={artPieces}/>} />
           <Route path="/exibition18" element={<Exibition18 images={artPieces}/>} />
           <Route path="/exibition17" element={<Exibition17 images={artPieces}/>} />
           <Route path="*" element={<NoPage/>} />
