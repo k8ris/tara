@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://k8ris.github.io/tara/static/css/main.288cd73c.css",
+    "main.js": "/https://k8ris.github.io/tara/static/js/main.f98b99e1.js",
+    "static/js/787.cd79332c.chunk.js": "/https://k8ris.github.io/tara/static/js/787.cd79332c.chunk.js",
+    "index.html": "/https://k8ris.github.io/tara/index.html",
+    "main.288cd73c.css.map": "/https://k8ris.github.io/tara/static/css/main.288cd73c.css.map",
+    "main.f98b99e1.js.map": "/https://k8ris.github.io/tara/static/js/main.f98b99e1.js.map",
+    "787.cd79332c.chunk.js.map": "/https://k8ris.github.io/tara/static/js/787.cd79332c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288cd73c.css",
+    "static/js/main.f98b99e1.js"
+  ]
+}
